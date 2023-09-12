@@ -1,2 +1,2 @@
-# exercism-python
-my solutions to python exercises on exercism
+# Exercism (Python)
+my solutions to [python exercises on exercism](https://exercism.org/tracks/python/exercises)
